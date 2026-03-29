@@ -45,32 +45,32 @@ To build a machine learning model that predicts AQI based on pollutant and weath
 
 ---
 
-## 📈 Results
+## Results
 - Random Forest MAE: ~7.5
 - R² Score: ~0.95
 - Linear Regression performed better due to linear dataset
 
 ---
 
-## 🔍 Insights
+## Insights
 - PM2.5 is the most important factor affecting AQI
 - PM10 is the second most influential parameter
 - Weather parameters have minor impact
 
 ---
 
-## 🌐 Web Application
+## Web Application
 A Streamlit-based UI allows users to input pollution values and predict AQI in real-time.
 
 ---
 
-## 🚀 Future Scope
+## Future Scope
 - Real-time AQI prediction using APIs
 - Mobile application development
 - Integration with IoT sensors
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 This project demonstrates how machine learning can be effectively used to predict AQI and analyze environmental pollution factors.
 
